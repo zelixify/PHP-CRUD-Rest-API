@@ -2,10 +2,6 @@
 
 Create a CRUD Rest API with PHP and MySQL
 
-## Documentation
-
-[https://www.danendracoding.my.id/2022/12/cara-membuat-crud-rest-api.html](https://www.danendracoding.my.id/2022/12/cara-membuat-crud-rest-api.html)
-
 ## Quick Start
 
 Follow the steps below to run the project.
@@ -16,6 +12,6 @@ Follow the steps below to run the project.
 
 ## Connect with Us
 
-Website: [Danendra Coding](https://www.danendracoding.my.id)  
-Like us on [Instagram](https://www.instagram.com/danendracoding)  
+Website: [Dncoding](https://www.dncoding.com)  
+Like us on [Instagram](https://www.instagram.com/dncoding)  
 Follow us on [Twitter](https://twitter.com/danendranr)
