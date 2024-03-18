@@ -12,6 +12,6 @@ Follow the steps below to run the project.
 
 ## Connect with Us
 
-Website: [Dncoding](https://www.dncoding.com)  
-Like us on [Instagram](https://www.instagram.com/dncoding)  
+Website: [Zelixify](https://zelixify.web.id)  
+Like us on [Instagram](https://www.instagram.com/zelixify)  
 Follow us on [Twitter](https://twitter.com/danendranr)
